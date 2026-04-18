@@ -1,7 +1,7 @@
 # The Impact of Grayscale Screen Display on Social Media Usage
 
 ## Project Overview
-This research project investigates the influence of visual design—specifically color—on user behavior and engagement patterns on social media, with a focus on **Instagram**. The study explores whether changing a smartphone's screen display from color to **grayscale (black and white)** affects usage habits and the subjective well-being of young adults (ages 18-30).
+This research project investigates the influence of visual design specifically color on user behavior and engagement patterns on social media, with a focus on **Instagram**. The study explores whether changing a smartphone's screen display from color to **grayscale (black and white)** affects usage habits and the subjective well-being of young adults (ages 18-30).
 
 The project was conducted as a randomized field experiment at **Tel Aviv University**.
 
